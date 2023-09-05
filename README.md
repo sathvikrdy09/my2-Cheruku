@@ -28,3 +28,15 @@
 # Pithy Quotes
 >“Everything is theoretically impossible until it is done.” – *Robert A. Heinlein*<br>
 >“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” – *Isaac Asimov*
+
+# Code Fencing
+`<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>``
