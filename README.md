@@ -12,3 +12,4 @@
 * Sushi
 * Beer
 * Gadgets
+>[link to MyStats](https://github.com/sathvikrdy09/my2-Cheruku/blob/main/MyStats.md)
