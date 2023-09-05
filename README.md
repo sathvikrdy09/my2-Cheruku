@@ -24,3 +24,7 @@
 |Cricket|Helps in team management|5hrs|
 |Running|Builds good physique|1hrs|
 |Jogging|Good for health|20hrs|
+
+# Pithy Quotes
+>“Everything is theoretically impossible until it is done.” – *Robert A. Heinlein*<br>
+>“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” – *Isaac Asimov*
