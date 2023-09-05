@@ -40,9 +40,6 @@
 </form>
 		
 <iframe name="my-iframe" src="iframe.php"></iframe>
-
-genNew.addEventListener("click",setBg);
-setBg();
 ```
 
 >[Link to code][def]
